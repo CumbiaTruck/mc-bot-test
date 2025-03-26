@@ -1,0 +1,11 @@
+{
+  "object" : 34,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["TW", "Slangenwagen", "watertankwagen of gelijkwaardige haakarmbak"],
+    "extend" : {
+      "(?'firetrucksNeededWater'\\d+) L\\. water": 1,
+      "(?'firetrucksNeededPump'\\d+) l\/min": 1,
+    }
+  }
+}

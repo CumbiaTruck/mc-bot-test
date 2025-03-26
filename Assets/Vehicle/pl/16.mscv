@@ -1,0 +1,12 @@
+{
+  "object" : 16,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Jednostka K-9"],
+    "extend" : {
+       "([12]) Jednostek K-9" : 1,
+      "([34]) Jednostek K-9" : 2,
+      "([56]) Jednostek K-9" : 3
+    }
+  }
+}

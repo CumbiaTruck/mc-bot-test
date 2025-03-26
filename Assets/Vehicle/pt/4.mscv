@@ -1,0 +1,8 @@
+{
+  "object" : 4,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["VSAT", "Veículo de resgate pesado", "Veículo de Socorro e Assistência Tático", "Veículos de Socorro e Assistência Tático"],
+    "extend" : {}
+  }
+}

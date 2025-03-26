@@ -1,0 +1,12 @@
+{
+  "object" : 12,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Pelastusauto", "paloautoa", "paloauto"],
+    "extend" : {
+      "(?'firetrucksNeededPersonnel'\\d+) pelastajaa": 1,
+      "(?'firetrucksNeededWater'\\d+) litraa vettä": 1,
+      "(\\d+) litraa vaahtoa": 1
+    }
+  }
+}

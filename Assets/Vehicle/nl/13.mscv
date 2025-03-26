@@ -1,0 +1,10 @@
+{
+  "object" : 13,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["TS8 \\(4x4\\)"],
+    "extend" : {
+      "([0-9]+) L\\. water" : 1
+    }
+  }
+}

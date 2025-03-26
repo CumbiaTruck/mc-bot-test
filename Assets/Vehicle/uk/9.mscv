@@ -1,0 +1,8 @@
+{
+  "object" : 9,
+  "is_matchless" : true,
+  "pattern" : {
+    "base" : ["HEMS", "Ambulance", "Critical Care", "Transport is needed"],
+    "extend" : {}
+  }
+}

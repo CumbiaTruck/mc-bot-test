@@ -1,0 +1,8 @@
+{
+  "object" : 11,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["VUCI", "Veículo de Combate a Incêndios", "Veículos de Combate a Incêndios"],
+    "extend" : {}
+  }
+}

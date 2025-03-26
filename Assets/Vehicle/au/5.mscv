@@ -1,0 +1,8 @@
+{
+  "object" : 5,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Ambulance\\(s\\)", "Ambulance", "Ambulance.", "Transport is needed", "Intensive Care"],
+    "extend" : {}
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "additional": {
+    "possible_patient": 1,
+    "possible_patient_min": 1,
+    "filter_id": "ambulance_station_missions"
+  },
+  "average_credits": null,
+  "chances": {
+    "patient_transport": 0
+  },
+  "base_mission_id": "613",
+  "name": "Intensivverlegung",
+  "requirements": [
+    {
+      "1": [
+        97
+      ]
+    }
+  ],
+  "place": "",
+  "overlay_index": null,
+  "additive_overlays": ""
+}

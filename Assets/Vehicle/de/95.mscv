@@ -1,0 +1,8 @@
+{
+  "object" : 95,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Polizeimotorrad", "Polizeimotorräder", "Streifenwagen oder Polizeimotorrad", "Streifenwagen oder Polizeimotorräder", "Streifenwagen"],
+    "extend" : {}
+  }
+}

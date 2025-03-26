@@ -1,0 +1,9 @@
+{
+  "object" : 21,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Ensihoidon lääkäri", "ensihoidon kenttäjohtaja"],
+    "extend" : {
+    }
+  }
+}

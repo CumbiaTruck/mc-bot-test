@@ -1,0 +1,8 @@
+{
+  "object" : 23,
+  "is_matchless" : true,
+  "pattern" : {
+    "base" : ["Paramedic Supervisor", "paramedic supervisor"],
+    "extend" : {}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "object" : 36,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Riot Police Equipment Vehicle", "Riot Police Equipment Vehicles"], 
+    "extend" : {}
+  }
+}

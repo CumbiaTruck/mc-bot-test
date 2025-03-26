@@ -1,0 +1,12 @@
+{
+  "is_matchless": false,
+  "object": 14,
+  "pattern": {
+    "base": [
+      "AKS Pansret mandskabsvogn"
+    ],
+    "extend": {
+      "(\\d+)x AKS-personale (i AKS-køretøjer)" : 1
+    }
+  }
+}

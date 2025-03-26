@@ -1,0 +1,8 @@
+{
+  "object" : 6,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Water Carrier", "Water Carriers", "Bulk Water Tankers", "Bulk Water Tanker"],
+    "extend" : {}
+  }
+}

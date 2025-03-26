@@ -1,0 +1,8 @@
+{
+  "object" : 20,
+  "is_matchless" : true,
+  "pattern" : {
+    "base" : ["Operational Team Leader"],
+    "extend" : {}
+  }
+}

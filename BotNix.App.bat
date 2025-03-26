@@ -1,0 +1,1 @@
+dotnet BotNix.App.dll

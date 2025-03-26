@@ -1,0 +1,12 @@
+{
+  "object" : 18,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["SUV SPKP"],
+    "extend" : {
+      "([1-4]) Personel SPKP \\(w pojazdach SPKP\\)" : 1,
+      "([5-8]) Personel SPKP \\(w pojazdach SPKP\\)" : 2,
+      "(9|1[0-2]) Personel SPKP \\(w pojazdach SPKP\\)" : 3
+    }
+  }
+}

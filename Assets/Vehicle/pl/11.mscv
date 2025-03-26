@@ -1,0 +1,8 @@
+{
+  "object" : 11,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Samochód Dowodzenia i Łączności", "samochód dowodzenia i łączności"],
+    "extend" : {}
+  }
+}

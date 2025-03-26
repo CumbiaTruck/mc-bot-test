@@ -1,0 +1,8 @@
+{
+  "object" : 3,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["Samochód szefa brygady", "samochód Oficera Operacyjnego", "samochody\\(-ów\\) Oficera Operacyjnego", "samochodów Oficera Operacyjnego lub SLRr", "SLOp lub SLRr"],
+    "extend" : {}
+  }
+}

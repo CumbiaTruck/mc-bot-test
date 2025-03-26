@@ -1,0 +1,10 @@
+{
+  "is_matchless": false,
+  "object": 36,
+  "pattern": {
+    "base": [
+      "PCO", "Veículo de Posto de Comando"
+    ],
+    "extend": {}
+  }
+}

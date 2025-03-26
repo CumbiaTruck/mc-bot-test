@@ -1,0 +1,8 @@
+{
+  "object" : 42,
+  "is_matchless" : false,
+  "pattern" : {
+    "base" : ["SES Storm Trailer", "SES Storm Trailers"], 
+    "extend" : {}
+  }
+}

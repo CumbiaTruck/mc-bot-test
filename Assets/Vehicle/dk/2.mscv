@@ -1,0 +1,12 @@
+{
+  "is_matchless": false,
+  "object": 2,
+  "pattern": {
+    "base": [
+      "Stigevogn"
+    ],
+    "extend": {
+      "(?'firetrucksNeededWater'\\d+) l\\. Vand": 1,
+    }
+  }
+}
